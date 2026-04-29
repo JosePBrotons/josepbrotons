@@ -9,7 +9,7 @@ Currently working as a **Frontend Developer at [BEON Tech](https://github.com/BE
 ## 🛠 Tech Stack
 
 **Frontend**
-`React` · `Next.js` · `React Native` · `TypeScript` · `SASS / CSS Modules`
+`React` · `Next.js` · `React Native` · `TypeScript` · `SASS / CSS Modules / Tailwind`
 
 **Backend**
 `Node.js` · `NestJS` · `REST APIs` · `GraphQL`
