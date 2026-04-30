@@ -21,7 +21,7 @@ Currently working as a **Frontend Developer at [BEON Tech](https://github.com/BE
 
 ## 🔭 What I'm Working On
 
-- **Acoustic's website** — Architecting a headless CMS migration from Acoustic Content to **Sanity Studio**, deeply integrated with **Next.js 16 App Router**. This includes schema design, HTML-to-Portable-Text conversion, ISR/cache strategy, and real-time live content via `next-sanity`'s `defineLive` API.
+- **Acoustic's website:** Architecting a headless CMS migration from Acoustic Content to **Sanity Studio**, deeply integrated with **Next.js 16 App Router**. This includes schema design, HTML-to-Portable-Text conversion, ISR/cache strategy, and real-time live content via `next-sanity`'s `defineLive` API.
 - Optimizing **React Server Components** adoption and reducing client bundle size across a hybrid App Router / Pages Router codebase.
 - Improving **Vercel edge performance** by addressing per-segment prefetch overhead, ISR cache invalidation tuning, and Turbopack stability.
 
